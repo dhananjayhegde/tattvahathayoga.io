@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: single
+title:  "Welcome to Tattva Hatha Yoga!"
 date:   2021-06-24 22:25:19 +0530
 categories: jekyll update
 ---
